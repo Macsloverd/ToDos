@@ -13,6 +13,8 @@
 ## PACCOUNTS
 - [ ] Add download as EXCEL
 - [ ] empty the page if notify
+- [ ] cent to euros
+- [ ] remove bottons in print mode
 - [ ] *OPTIONAL, chose which table to print*
 
 ## OVERHEADS
@@ -34,3 +36,4 @@
 
 ## NEWOHT
 - [ ] Notify and switch to NEWORT if ORDERTYPE.REsponse.length is 0
+- [ ] cent to euros
